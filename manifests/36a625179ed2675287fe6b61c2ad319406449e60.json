@@ -1,0 +1,57 @@
+{
+  "commit": "36a625179ed2675287fe6b61c2ad319406449e60",
+  "files": {
+    "repolex": {
+      "path": "aggregate/repolex/36a625179ed2675287fe6b61c2ad319406449e60.nq.gz",
+      "size_bytes": 1733931
+    },
+    "dep": {
+      "path": "dep/36a625179ed2675287fe6b61c2ad319406449e60.nq.gz",
+      "size_bytes": 841
+    }
+  },
+  "dependencies": [
+    {
+      "packageName": "wcwidth",
+      "packageVersion": "0.6.0",
+      "githubOrg": "jquast",
+      "githubRepo": "wcwidth",
+      "githubCommit": "e19d2a2d852d623fce9d9d4d5f4c373d7233373b"
+    },
+    {
+      "packageName": "blessed",
+      "packageVersion": "1.9.5",
+      "githubOrg": "jquast",
+      "githubRepo": "blessed",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "pytest",
+      "packageVersion": "9.0.2",
+      "githubOrg": "pytest-dev",
+      "githubRepo": "pytest",
+      "githubCommit": "3d10b5148e03eb82b3ee29181dbdc73cf82699e2"
+    },
+    {
+      "packageName": "typing-extensions",
+      "packageVersion": "4.9.0rc1",
+      "githubOrg": "python",
+      "githubRepo": "typing_extensions",
+      "githubCommit": "f82d6367f3ff8f16b6291de06394ec6b9318bfc3"
+    },
+    {
+      "packageName": "urllib3",
+      "packageVersion": "2.6.3",
+      "githubOrg": "urllib3",
+      "githubRepo": "urllib3",
+      "githubCommit": "0248277dd7ac0239204889ca991353ad3e3a1ddc"
+    },
+    {
+      "packageName": "jinja2",
+      "packageVersion": "3.1.6",
+      "githubOrg": "pallets",
+      "githubRepo": "jinja",
+      "githubCommit": "15206881c006c79667fe5154fe80c01c65410679"
+    }
+  ]
+}

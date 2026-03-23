@@ -2066,6 +2066,35 @@
         "blob/71fe11fac2a9d5543acd0498545228d3b0ff7f1e.nq.gz",
         "blob/a5754c84615a814912aed5d3ed46c51fe7d522e1.nq.gz",
         "blob/13e2505a9cb4237762d6bebcd9d835b3192247a9.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/7918f581feedeaa4246dc0fc03ec6fb49cff15cb.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/7918f581feedeaa4246dc0fc03ec6fb49cff15cb.nq.gz",
+      "repolex": "aggregate/repolex/7918f581feedeaa4246dc0fc03ec6fb49cff15cb.nq.gz",
+      "dep": "dep/7918f581feedeaa4246dc0fc03ec6fb49cff15cb.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "pytest",
+          "packageVersion": "9.0.2",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest",
+          "githubCommit": "3d10b5148e03eb82b3ee29181dbdc73cf82699e2"
+        },
+        {
+          "packageName": "wcwidth",
+          "packageVersion": "0.6.0",
+          "githubOrg": "jquast",
+          "githubRepo": "wcwidth",
+          "githubCommit": "e19d2a2d852d623fce9d9d4d5f4c373d7233373b"
+        },
+        {
+          "packageName": "blessed",
+          "packageVersion": "1.9.5",
+          "githubOrg": "jquast",
+          "githubRepo": "blessed",
+          "githubCommit": "HEAD"
+        }
       ]
     }
   ],

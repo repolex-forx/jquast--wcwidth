@@ -1,0 +1,29 @@
+{
+  "commit": "15efb1f02ba50f79f8905b9ef25fa9c50068b7b1",
+  "files": {
+    "repolex": {
+      "path": "aggregate/repolex/15efb1f02ba50f79f8905b9ef25fa9c50068b7b1.nq.gz",
+      "size_bytes": 403496
+    },
+    "dep": {
+      "path": "dep/15efb1f02ba50f79f8905b9ef25fa9c50068b7b1.nq.gz",
+      "size_bytes": 426
+    }
+  },
+  "dependencies": [
+    {
+      "packageName": "wcwidth",
+      "packageVersion": "0.6.0",
+      "githubOrg": "jquast",
+      "githubRepo": "wcwidth",
+      "githubCommit": "e19d2a2d852d623fce9d9d4d5f4c373d7233373b"
+    },
+    {
+      "packageName": "blessed",
+      "packageVersion": "1.9.5",
+      "githubOrg": "jquast",
+      "githubRepo": "blessed",
+      "githubCommit": "HEAD"
+    }
+  ]
+}

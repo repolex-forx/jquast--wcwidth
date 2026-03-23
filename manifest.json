@@ -354,6 +354,28 @@
         "blob/13478812253ef9aaaf5f820891bc00b3a7277b5d.nq.gz",
         "blob/69b0d8f8b3df0f97d7d81002142174a482984c73.nq.gz",
         "blob/71fe11fac2a9d5543acd0498545228d3b0ff7f1e.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/55a3a771ef4cc1f28a856f03768716d220ef6f97.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/55a3a771ef4cc1f28a856f03768716d220ef6f97.nq.gz",
+      "repolex": "aggregate/repolex/55a3a771ef4cc1f28a856f03768716d220ef6f97.nq.gz",
+      "dep": "dep/55a3a771ef4cc1f28a856f03768716d220ef6f97.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "wcwidth",
+          "packageVersion": "0.6.0",
+          "githubOrg": "jquast",
+          "githubRepo": "wcwidth",
+          "githubCommit": "e19d2a2d852d623fce9d9d4d5f4c373d7233373b"
+        },
+        {
+          "packageName": "blessed",
+          "packageVersion": "1.9.5",
+          "githubOrg": "jquast",
+          "githubRepo": "blessed",
+          "githubCommit": "HEAD"
+        }
       ]
     }
   ],

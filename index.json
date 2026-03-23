@@ -3,6 +3,11 @@
   "repo": "wcwidth",
   "versions": [
     {
+      "commit": "5b8809074cc41130be9ead0c68f9081747915149",
+      "tag": "",
+      "parsed_at": ""
+    },
+    {
       "commit": "df21a5713e4416ee35927c0bdd4405ea55384c3c",
       "tag": "",
       "parsed_at": ""

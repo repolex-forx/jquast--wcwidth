@@ -1,0 +1,36 @@
+{
+  "commit": "e77dfdf85b56405edeb87b7c874c91ddfc71bc05",
+  "files": {
+    "repolex": {
+      "path": "aggregate/repolex/e77dfdf85b56405edeb87b7c874c91ddfc71bc05.nq.gz",
+      "size_bytes": 1278603
+    },
+    "dep": {
+      "path": "dep/e77dfdf85b56405edeb87b7c874c91ddfc71bc05.nq.gz",
+      "size_bytes": 535
+    }
+  },
+  "dependencies": [
+    {
+      "packageName": "wcwidth",
+      "packageVersion": "0.6.0",
+      "githubOrg": "jquast",
+      "githubRepo": "wcwidth",
+      "githubCommit": "e19d2a2d852d623fce9d9d4d5f4c373d7233373b"
+    },
+    {
+      "packageName": "pytest",
+      "packageVersion": "9.0.2",
+      "githubOrg": "pytest-dev",
+      "githubRepo": "pytest",
+      "githubCommit": "3d10b5148e03eb82b3ee29181dbdc73cf82699e2"
+    },
+    {
+      "packageName": "blessed",
+      "packageVersion": "1.9.5",
+      "githubOrg": "jquast",
+      "githubRepo": "blessed",
+      "githubCommit": "HEAD"
+    }
+  ]
+}
